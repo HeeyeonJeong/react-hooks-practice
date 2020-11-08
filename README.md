@@ -19,5 +19,5 @@
 - [ ] `useNotification` - notification API사용할때 유저에게 알림을 보내줌
 - [ ] `useScroll` - 스크롤 사용할때 감지
 - [ ] `usePreventLeave` - 유저가 변경사항이나 무엇이든간 저장하지 않고 페이지를 벗어나길 원할 때 확인
-- [ ] `useConfirm`
+- [x] `useConfirm` - 유저가 무언가를 하기전에 하는 것
 - [ ] `useAxios` - HTTP request client axios를 위한 wrapper 같은 것
