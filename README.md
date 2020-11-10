@@ -17,7 +17,7 @@
 - [x] `useHover` - 어떤 화면에 마우스를 올렸을 때 감지
 - [x] `useNetwork` - online, offline 상태 감지
 - [ ] `useNotification` - notification API사용할때 유저에게 알림을 보내줌
-- [ ] `useScroll` - 스크롤 사용할때 감지
+- [x] `useScroll` - 스크롤 사용할때 감지
 - [ ] `useAxios` - HTTP request client axios를 위한 wrapper 같은 것
 
 ##
